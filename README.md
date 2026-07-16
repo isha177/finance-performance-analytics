@@ -155,13 +155,13 @@ Visual breakdown of lending activity through:
 - Loan Purpose Breakdown (Bar Chart)
 - Home Ownership Analysis (Tree Map)
 
-![Overview Dashboard](screenshots/Screenshot-2.png)
+![Overview Dashboard](Screenshot-2.png)
 
 ### 3. Details Dashboard
 
 A comprehensive grid view providing borrower-level information including ID, Purpose, Home Ownership, Grade, Sub Grade, Issue Date, Funded Amount, Interest Rate, Installment, and Amount Received — serving as a one-stop reference for detailed loan-level insights.
 
-![Details Dashboard](screenshots/Screenshot-3.png)
+![Details Dashboard](Screenshot-3.png)
 
 ---
 
