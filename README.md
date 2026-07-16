@@ -142,7 +142,7 @@ A 3-page interactive Power BI dashboard was developed:
 
 High-level KPI overview covering Total Loan Applications, Total Funded Amount, Total Amount Received, Average Interest Rate, and Average DTI (with MTD & MoM tracking). Includes a Good Loan vs Bad Loan breakdown and a Loan Status grid view (Current, Fully Paid, Charged Off).
 
-![Summary Dashboard](screenshots/Screenshot-1.png)
+![Summary Dashboard](Screenshot-1.png)
 
 ### 2. Overview Dashboard
 
